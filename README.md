@@ -1,4 +1,4 @@
-## Hi 👋 I'm Tomoki Watanabe
+## こんにちは 👋 渡辺友樹です
 
 I'm a self-taught frontend developer currently focused on building responsive and modern web apps using **Next.js**, **TypeScript**, **Tailwind CSS**, and **Firebase**.
 
