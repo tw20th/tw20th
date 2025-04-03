@@ -29,7 +29,6 @@ I'm a self-taught frontend developer currently focused on building responsive an
 | Project | Description | Link |
 |--------|-------------|------|
 | 🐍 [はちゅナビ](https://github.com/tw20th/hachu-navi) | 爬虫類グッズを比較できるツール | TypeScript, Firebase |
-| 🔮 [ウラナイサイト](https://github.com/tw20th/uranai-site) | 占いWebアプリ（UI練習） | Next.js, Tailwind |
 | 🔐 [暗号ランキング](https://github.com/tw20th/crypto-ranking) | 仮想通貨のランキング表示 | CoinGecko API |
 | 👨‍💻 [ポートフォリオ](https://github.com/tw20th/tomoki-portfolio) | 自分のポートフォリオ | Next.js, Tailwind |
 
